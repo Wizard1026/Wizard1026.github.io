@@ -1,0 +1,6 @@
+<a href=”#awesome”>Click me</a>
+<a href=”../awesome”>Click me</a>
+
+<a href=#awesome>Click me</a>
+
+<a href=../awesome>Click me</a>
