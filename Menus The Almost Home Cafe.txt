@@ -1,0 +1,88 @@
+<h1>The Almost Home Cafe
+<div style="width:400px; height:550px; padding:20px; background-color:#cc33FF; margin:15px;">
+<img src="5661.jpg" alt="Breakfast time"/>
+    <table>
+        <tbody>
+            <tr style="text-align: center;">
+                <td></td><img src="Breakfast.jpg" alt="Breakfast" />
+            <img width="125" src="5661.jpg" alt="Breakfast" />
+    </div>
+    style="border: 3px #AAAAF">
+    <div style="border: 3px solid green;"></div>
+<div style="width:10%; height:15px; background-image:url('image.jpg'); background-repeat:repeat-y;"></div>
+</div>
+<h1>Breakfast</h1>
+<p>
+    <li>Hungry man Platter
+
+        <li>Pretty Pancakes
+
+            <li>Only Omelets
+
+<li>Coffee
+
+        <li>Chocolate Milk
+
+            <li>Juice
+
+
+
+
+
+<h1>The Almost Home Cafe
+<div style="width:400px; height:550px; padding:300px; background-color:#cc33FF; margin:30px;">
+<img src="5661.jpg" alt="Lunch"/>
+    <table>
+        <tbody>
+            <tr style="text-align: Right;">
+                <td></td><img src="Lunch.jpg" alt="Lunch" />
+            <img width="125" src="5661.jpg" alt="unch" />
+    </div>
+    style="border: 3px #AAAAF">
+    <div style="border: 3px solid green;"></div>
+<div style="width:10%; height:15px; background-image:url('image.jpg'); background-repeat:repeat-y;"></div>
+</div>
+<h1>Lunch</h1>
+<p>
+    <li>Cheeseburger & Fries
+
+        <li>Taco Platter
+
+            <li>Pizza (cheese or pepperoni)
+
+<li>Soda
+
+        <li>Ice Tea
+
+            <li>Flavored Water
+
+
+
+
+
+<h1>The Almost Home Cafe
+<div style="width:400px; height:550px; padding:300px; background-color:#cc33FF; margin:30px;">
+<img src="5661.jpg" alt="Dinner"/>
+    <table>
+        <tbody>
+            <tr style="text-align: Left;">
+                <td></td><img src="Dinner.jpg" alt="Dinner" />
+            <img width="150" src="5661.jpg" alt="unch" />
+    </div>
+    style="border: 3px #AAAAF">
+    <div style="border: 3px solid green;"></div>
+<div style="width:20%; height:25px; background-image:url('image.jpg'); background-norepeat:repeat-n;"></div>
+</div>
+<h1>Dinner</h1>
+<p>
+    <li>Chicken Platter
+
+        <li>Roast beef Platter
+
+            <li> Steak and potato
+
+<li>Soda
+
+        <li>Ice Tea
+
+            <li>Leamon Aid
