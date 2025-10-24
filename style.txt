@@ -1,0 +1,68 @@
+<style>
+  ul.roomy li {
+    margin-bottom:10px;
+  }
+</style>
+<caption>October 24th Schedule.</caption>
+
+
+<p><b>October 24th</b></p>
+<ul>
+  <li>7:30 Make Bed.</li>
+  <li>8:00 Breakfast.</li>
+  <li>8:30 Shower.</li>
+  <li>9:00 Leave House.</li>
+
+</ul>
+
+<p><b>Adjusted List</b></p>
+<ul class="roomy">
+  <li>10 Speech.</li>
+  <li>11 Eye Appointment.</li>
+  <li>1 Dentist.</li>
+  <li>3 School Work.</li>
+</ul>
+<style>
+  table {
+    width:500px;
+    margin:auto;
+    background-color:#555577;
+    color:#FFFFFF;
+  }
+  td {
+    padding:10px;
+  }
+  tr.lighter {
+    font-size:20px;
+    background-color:#8888AA;
+  }
+</style>
+
+<table>
+  <tr>
+    <td>Time</td>
+    <td>Appt.</td>
+<td>Time</td>
+<td>Appt.</td>
+<td>Time</td>
+<td>Appt.</td>
+<td>Time</td>
+<td>Appt.</td>
+<td>Time</td>
+<td>Appt.</td>
+<td></tr>
+  <tr class="lighter">Time</td>
+<td>Time</td>
+<td>Appt.</td>
+<td>Time</td>
+<td>Appt.</td>
+<td>Time</td>
+<td>Appt.</td>
+<td>Time</td>
+<td>Appt.</td>
+
+
+
+
+  </tr>
+</table>
