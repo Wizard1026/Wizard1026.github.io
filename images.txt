@@ -1,0 +1,95 @@
+<Penquins>
+<style>
+    div {
+        background: url("penquin.jpeg");
+        height: 100px;
+        background-image: radial-gradient( blue 50%, pink 10%);
+        background-color: navy;
+    }
+</style>
+<div></div>
+
+
+
+
+<dinosaur>
+<style>
+  div {
+    background-image: url(foam-finger.png), url(dinosaur.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+    background-size: 100px auto, auto 200px;
+    background-position: 0px 0px, 50px 5px;
+    background-origin: content-box;
+  }
+</style>
+
+<div></div>
+
+
+
+
+.blur-effect {
+  filter: blur(5px);
+ width: 100%;
+height: auto;
+<h1>
+  Applying a CSS Blur Filter to an Image
+</h1>
+<img src="seagull.png"; class="blur-effect">
+
+}
+
+
+<tic-tac-toe-football>
+
+
+<style>
+    div {
+        image-with-custom-border 
+    width: 400px;
+    height: 400px;
+    background-color: lightgray; /* For visibility */
+    border: 20px solid transparent; /* tic-tac-toe */
+    border-image: url("tic-tac-toe.png")
+        border-radius: top-left top-right bottom-right bottom-left;
+        background-color: purple;image:url("football_field.jpg")
+        height: 400px;
+    }
+</style>
+
+<div></div>
+
+
+<theater_stage>
+
+
+<style>
+    div
+
+img {
+("theater_stage.jpeg")
+  -webkit-filter: contrast(170%);
+  filter: contrast(150%);
+}
+   
+</style>
+
+<div></div>
+
+<butterfly>
+
+
+<style>
+    div
+
+img {
+("butterfly.jpeg")
+  -webkit-filter: saturate(50%);
+  filter: saturate(150%);
+}
+</style>
+
+<div></div>
+
