@@ -1,0 +1,122 @@
+<style>
+  @keyframes myAnimation {
+    0% {font-size: 50px;}
+    70% {font-size: 30px;}
+    100% {font-size: 50px;}
+  }
+  div p {
+    animation-name: myAnimation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+  }
+</style>
+
+<div>
+  <p>history quiz.</p>
+</div>
+<p>
+<head>
+<title> flashcard quiz</title>
+</head>
+<body>
+<div class="flashcard-container">
+<h.>flashcard quiz</h:>
+<div id= "flashcard" class=flashcard">
+<div class="front">
+<p> id "question"> question will appear here</p>
+</div>
+<div class="back">
+<p id= "answer">answer will appear here </p>
+</ div>
+</div>
+<button id= "flip card</button>
+<button id= "next-card"> next/button>
+</div>
+<script src="script.js></script>
+<body>
+</html/>
+
+body
+{
+font-family: sans-serf;
+display: flex;
+justify-content: center;
+align-items: center;
+height 100 px;
+background: linear-gradiant (125 deg,#f5596623, af29d77)
+margin:0;
+overflow: hidden;
+}
+flashcard-container
+text-align: center;
+background-color: white
+padding:40px;
+border-radius: 20px;
+max width 360px;
+<p>
+flashcard
+width: 90%
+height: 180 px;
+position: relative;
+transform-style:preserve-3d;
+transition: transform0.6s;
+margin: auto;
+{
+}
+flashcard.is flipped
+transformed: rotate Y (180deg);
+{
+}
+flashcard.div {
+position: absolute;
+width:100%
+height: 70%;
+backface-visibility: hidden;
+border-radius 15 px;
+background:l inear-gradiant 150 deg #f5f7f9, #c3cfe2)
+display: flex;
+padding: 20px
+box-shadow: 04px 8px rgba(0,0,0,0.1);
+font-size:1.1em
+{
+}
+back
+transforms: rotate Y (180 deg);
+{
+}
+bottom
+margin: 10 px
+padding: 12px 25 px;
+border: none;
+border-radius: 25 px;
+background -color: hff5722
+color: white
+font size: 1.1 em
+cursor: pointer
+transition: background- color 0.35, transform 0.25;
+{
+}
+button: hoover
+background- color:#e64979;
+{
+}
+button: active
+transform: scale (0.95);
+{
+}
+question: "President Hoover was the _____ President?", answer:"31st"
+question: "What years was prohibition?", answer: "1920-1935"
+question: "what years was the great depression?", answer: "1929-1939"
+question: "what years was the Hoover dam constructed?", answer:"1931-1936"
+question: "what President was Warren Harding?", answer: "29th"
+question: "what President is currently in office?", answer: " President Donald Trump"
+question: "who was the first President of the US?", answer: President  George Washington
+question: "what year did the US declare independence?", answer: "1776"
+
+
+
+
+
+
+
+
